@@ -1,4 +1,4 @@
-## Intall Vendor
+## Install Vendor
 docker-compose exec app composer install
 
 ## Generate APP_KEY
